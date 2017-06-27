@@ -1,4 +1,4 @@
-v#include <stdio.h>
+#include <stdio.h>
 
 #include <stdlib.h>
 
@@ -11,10 +11,6 @@ v#include <stdio.h>
 #include "jeu.h"
 
 #include "constantes.h"
-
-
-
-using namespace std;
 
 
 int main ()
