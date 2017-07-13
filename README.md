@@ -1,6 +1,6 @@
 # other-world
 other world is a french 2D RPG game in developpement.
-for now, the game isn't launchable. it will be written here when the alpha is available.
+for now, the game is in Alpha Build but not interesting at all. no objectives, one map only...
 
 # important !
 - the game will be in french,
